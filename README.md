@@ -21,7 +21,6 @@ Head to the [Releases](../../releases) page to download the latest version for y
 |----------|------|
 | Windows  | `Markdown.Viewer.Setup.1.0.0.exe` |
 | Linux    | `Markdown.Viewer-1.0.0.AppImage` |
-| macOS    | `Markdown.Viewer-1.0.0.dmg` |
 
 ## Development
 
@@ -29,8 +28,8 @@ Head to the [Releases](../../releases) page to download the latest version for y
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/markdown-viewer.git
-cd markdown-viewer
+git clone https://github.com/Kiwilus/MDViewer.git
+cd MDViewer
 
 # Install dependencies
 npm install
